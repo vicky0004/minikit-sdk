@@ -6,5 +6,7 @@ To use this package:
 npm i vicky-my-sdk
 ```
 // 📦 Import from the SDK
+```bash
 import { MySdk } from "vicky-my-sdk";
+```
 
